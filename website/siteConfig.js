@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Brian Roberson', // Title for your website.
-    tagline: 'Persistent, Adaptable, Courteous, aspiring programmer.',
+    tagline: 'Persistent, Adaptable, Courteous, Aspiring Programmer.',
     profilePhoto: 'img/profile.png',
     url: 'https://bfroberson.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
